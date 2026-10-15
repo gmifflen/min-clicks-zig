@@ -33,5 +33,3 @@ The command line matches the original:
 
 ./optimal --help
 ```
-
-Exit codes: 0 success, 1 invalid input or error, 2 exact search stopped by `--time-limit` or `--max-states`.
