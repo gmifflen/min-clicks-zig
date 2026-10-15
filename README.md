@@ -6,6 +6,8 @@ All code under `reference/` is from the original min-clicks repo
 
 ## Build and compare
 
+Install Zig from https://ziglang.org/download/
+
 ```sh
 zig build -Drelease
 zig build compare   # checks the Zig version against the C++ version and times them
