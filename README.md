@@ -1,6 +1,6 @@
 # min-clicks (Zig port)
 
-A Zig 0.17.0 port of [clmpk/min-clicks](https://github.com/clmpk/min-clicks/tree/7225581ca6044512737192fb1f8d1b6b40dcdcfb)
+A Zig 0.17.0 derivative of [clmpk/min-clicks](https://github.com/clmpk/min-clicks/tree/7225581ca6044512737192fb1f8d1b6b40dcdcfb)
 
 All code under `reference/` is from the original min-clicks repo
 
